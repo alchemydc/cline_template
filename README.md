@@ -1,5 +1,5 @@
 # cline_template
-Scaffold for vibe-coding projects with Cline
+Scaffold for vibe-coding projects with [Cline](https://cline.bot/)
 
 After cloning, `mv cline_template $NEW_PROJECT_NAME` && `rm -rfv .git` to create a new name and delete the git history for the template.
 
