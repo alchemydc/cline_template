@@ -11,7 +11,7 @@ Building a [type of application] that will [main purpose].
 ## Target Users
 [Describe who will use your application]
 
-## Technical Preferences (optional)
+## Technical Preferences
 - Any specific technologies you want to use
 - Any specific requirements or constraints
 
