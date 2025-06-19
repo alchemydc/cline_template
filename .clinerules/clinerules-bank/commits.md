@@ -30,7 +30,8 @@ We follow the [Conventional Commits](https://www.conventionalcommits.org/) speci
 ## AI Agent Rules
 
 <rules>
-- Always run `git add .` from the workspace root to stage changes
+- Remind the user to always run `git add .` from the workspace root to stage changes
+- The user prefers to manage git actions (git add, git commit, git push) manually so do not suggest that the agent run these commands.
 - Review staged changes before committing to ensure no unintended files are included
 - Format commit titles as `type: brief description` where type is one of:
   - feat: new feature
